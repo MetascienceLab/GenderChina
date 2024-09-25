@@ -1,0 +1,65 @@
+class,program,gender,count,total,ratio,Department
+Fund for Less Developed Regions,H,male,2352,3303,0.7120799273387829,HS
+Fund for Less Developed Regions,H,female,951,3303,0.28792007266121705,HS
+Fund for Less Developed Regions,D,male,573,771,0.7431906614785992,Earth
+Fund for Less Developed Regions,D,female,198,771,0.25680933852140075,Earth
+Fund for Less Developed Regions,E,male,1286,1518,0.847167325428195,EMS
+Fund for Less Developed Regions,E,female,232,1518,0.152832674571805,EMS
+Fund for Less Developed Regions,B,male,796,1022,0.7788649706457925,Chem
+Fund for Less Developed Regions,B,female,226,1022,0.22113502935420742,Chem
+Fund for Less Developed Regions,C,male,2282,3157,0.7228381374722838,LS
+Fund for Less Developed Regions,C,female,875,3157,0.2771618625277162,LS
+Fund for Less Developed Regions,F,male,839,1003,0.8364905284147557,CIS
+Fund for Less Developed Regions,F,female,164,1003,0.16350947158524426,CIS
+Fund for Less Developed Regions,A,male,668,820,0.8146341463414634,MPS
+Fund for Less Developed Regions,A,female,152,820,0.18536585365853658,MPS
+Fund for Less Developed Regions,G,male,451,587,0.768313458262351,MS
+Fund for Less Developed Regions,G,female,136,587,0.23168654173764908,MS
+General Program,H,male,15561,20038,0.7765745084339755,HS
+General Program,H,female,4477,20038,0.22342549156602456,HS
+General Program,D,male,6760,8008,0.8441558441558441,Earth
+General Program,D,female,1248,8008,0.15584415584415584,Earth
+General Program,E,male,12377,14278,0.8668581033758229,EMS
+General Program,E,female,1901,14278,0.13314189662417705,EMS
+General Program,B,male,6666,8120,0.820935960591133,Chem
+General Program,B,female,1454,8120,0.179064039408867,Chem
+General Program,C,male,10398,13203,0.7875482844807998,LS
+General Program,C,female,2805,13203,0.21245171551920017,LS
+General Program,F,male,7871,9028,0.8718431546300399,CIS
+General Program,F,female,1157,9028,0.12815684536996014,CIS
+General Program,A,male,6939,7871,0.8815906492186507,MPS
+General Program,A,female,932,7871,0.11840935078134926,MPS
+General Program,G,male,3062,3727,0.8215723101690368,MS
+General Program,G,female,665,3727,0.17842768983096324,MS
+Young Scientists Fund,H,male,8716,14818,0.5882035362397084,HS
+Young Scientists Fund,H,female,6102,14818,0.41179646376029155,HS
+Young Scientists Fund,D,male,5292,7288,0.7261251372118551,Earth
+Young Scientists Fund,D,female,1996,7288,0.2738748627881449,Earth
+Young Scientists Fund,E,male,10387,13617,0.762796504369538,EMS
+Young Scientists Fund,E,female,3230,13617,0.23720349563046192,EMS
+Young Scientists Fund,B,male,4658,6764,0.6886457717327026,Chem
+Young Scientists Fund,B,female,2106,6764,0.3113542282672975,Chem
+Young Scientists Fund,C,male,6271,9952,0.6301245980707395,LS
+Young Scientists Fund,C,female,3681,9952,0.36987540192926044,LS
+Young Scientists Fund,F,male,7003,9060,0.7729580573951434,CIS
+Young Scientists Fund,F,female,2057,9060,0.22704194260485652,CIS
+Young Scientists Fund,A,male,5964,7930,0.7520807061790669,MPS
+Young Scientists Fund,A,female,1966,7930,0.24791929382093317,MPS
+Young Scientists Fund,G,male,2083,3115,0.6686998394863564,MS
+Young Scientists Fund,G,female,1032,3115,0.33130016051364364,MS
+Key Program,H,male,353,394,0.8959390862944162,HS
+Key Program,H,female,41,394,0.10406091370558376,HS
+Key Program,D,male,308,333,0.924924924924925,Earth
+Key Program,D,female,25,333,0.07507507507507508,Earth
+Key Program,E,male,343,366,0.9371584699453552,EMS
+Key Program,E,female,23,366,0.06284153005464481,EMS
+Key Program,B,male,242,262,0.9236641221374046,Chem
+Key Program,B,female,20,262,0.07633587786259542,Chem
+Key Program,C,male,329,356,0.9241573033707865,LS
+Key Program,C,female,27,356,0.07584269662921349,LS
+Key Program,F,male,303,339,0.8938053097345132,CIS
+Key Program,F,female,36,339,0.10619469026548672,CIS
+Key Program,A,male,268,286,0.9370629370629371,MPS
+Key Program,A,female,18,286,0.06293706293706294,MPS
+Key Program,G,male,102,116,0.8793103448275862,MS
+Key Program,G,female,14,116,0.1206896551724138,MS
